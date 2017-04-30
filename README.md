@@ -15,4 +15,6 @@ Learn everything you need to about the subject of this `Project`.
 
 ## Topics
 ```
+2017-04-30
+[x] Implemented __quina and __sum functions and its tests
 ```
